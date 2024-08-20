@@ -1,0 +1,21 @@
+package application;
+
+public enum Instrument {
+	
+	BASS_GUITAR,
+	SNARE_DRUM,
+	STICKS,
+	BASS_DRUM,
+	BELL,
+	FLUTE,
+	CHIME,
+	GUITAR,
+	XYLOPHONE,
+	COW_BELL,
+	DIDGERIDOO,
+	BIT,
+	BANJO,
+	PLING,
+	PIANO,
+	IRON_XYLOPHONE
+}
